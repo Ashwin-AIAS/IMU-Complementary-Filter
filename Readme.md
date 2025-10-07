@@ -1,5 +1,5 @@
 # Sensor Networks and Sensor Data Fusion
-## Programming Exercise 1: Accelerometer/Gyro Fusion
+##  Accelerometer/Gyro Fusion
 
 ### Description
 #### Files
